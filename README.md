@@ -2,6 +2,8 @@
 Dark theme for Visual Studio Code
 
 ## Screenshots
+![2018-08-22-225616_1600x900_scrot](https://user-images.githubusercontent.com/2269864/44502296-df66e800-a65e-11e8-962b-37c2bb6db8a4.png)
+![2018-08-22-225616_1600x900_scrot copy](https://user-images.githubusercontent.com/2269864/44502297-df66e800-a65e-11e8-87eb-309ccbdf9f96.png)
 
 
 ## Install
