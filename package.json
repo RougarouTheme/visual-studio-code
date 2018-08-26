@@ -3,7 +3,7 @@
     "displayName": "Rougarou",
     "description": "Rougarou Theme for Visual Studio Code",
     "icon": "wolf.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "4ban",
     "repository": "https://github.com/RougarouTheme/visual-studio-code",
     "engines": {
@@ -20,5 +20,11 @@
                 "path": "./themes/Rougarou-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "rougarou",
+        "dark-theme",
+        "theme",
+        "color-theme"
+    ]
 }
